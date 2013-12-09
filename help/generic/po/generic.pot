@@ -539,6 +539,6 @@ msgstr ""
 #, no-wrap
 msgid ""
 "Houston congratulates you in the name of mankind for the success of your "
-"missin.\n"
+"mission.\n"
 "The Great Migration to Terra Nova will start very soon."
 msgstr ""
